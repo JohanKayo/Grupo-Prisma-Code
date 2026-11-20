@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\ProyectoModelos\bin\Debug\net8.0\ProyectoModelos.exe
+C:\Users\HP\Desktop\ProyectoModelos\bin\Debug\net8.0\ProyectoModelos.deps.json
+C:\Users\HP\Desktop\ProyectoModelos\bin\Debug\net8.0\ProyectoModelos.runtimeconfig.json
+C:\Users\HP\Desktop\ProyectoModelos\bin\Debug\net8.0\ProyectoModelos.runtimeconfig.dev.json
+C:\Users\HP\Desktop\ProyectoModelos\bin\Debug\net8.0\ProyectoModelos.dll
+C:\Users\HP\Desktop\ProyectoModelos\bin\Debug\net8.0\ProyectoModelos.pdb
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\ProyectoModelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\ProyectoModelos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\ProyectoModelos.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\ProyectoModelos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\ProyectoModelos.dll
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\refint\ProyectoModelos.dll
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\ProyectoModelos.pdb
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\ProyectoModelos.genruntimeconfig.cache
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\ref\ProyectoModelos.dll
+C:\Users\HP\Desktop\ProyectoModelos\obj\Debug\net8.0\Proyecto.E38D786D.Up2Date
