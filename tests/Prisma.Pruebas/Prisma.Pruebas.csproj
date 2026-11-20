@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Prisma.Aplicacion\Prisma.Aplicacion.csproj" />
-    <ProjectReference Include="..\..\src\Prisma.Dominio\Prisma-Dominio.csproj" />
+    <ProjectReference Include="..\..\src\Prisma.Dominio\Prisma.Dominio.csproj" />
     <ProjectReference Include="..\..\src\Prisma.Infraestructura\Prisma.Infraestructura.csproj" />
   </ItemGroup>
 

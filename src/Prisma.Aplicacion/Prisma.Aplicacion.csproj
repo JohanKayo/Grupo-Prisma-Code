@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Prisma.Dominio\Prisma-Dominio.csproj" />
+    <ProjectReference Include="..\Prisma.Dominio\Prisma.Dominio.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

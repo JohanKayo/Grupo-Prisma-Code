@@ -2,7 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Prisma.Aplicacion\Prisma.Aplicacion.csproj" />
-    <ProjectReference Include="..\Prisma.Dominio\Prisma-Dominio.csproj" />
+    <ProjectReference Include="..\Prisma.Dominio\Prisma.Dominio.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
